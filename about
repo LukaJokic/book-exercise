@@ -1,0 +1,20 @@
+The subject of this book is the introduction of three main risk parameters, i.e. PD, LGD, EAD.
+The book should firstly describe these parameters,
+explain why their importance has been increasing recently,
+present different machine learning techniques for modelling each of those three parameters as well as decompose the whole modelling process,
+discuss everyday challenges and issues that each bank faces in each model development phase,
+comment on up-to-date regulatory frameworks which supervise and advise banks at the same time and give them instructions to easily overcome these difficulties.
+
+Topics - brainstorming:
+
+1.  The concept of default
+2.  Financial crisis and paying more attention to different types of risk and ways to mitigate them
+3.  PD, LGD, EAD - introduction, first models (Altman), historical progress, significance
+4.  Basel and IFRS 9
+5.  Development process of PD models and initial validation
+6.  Calibration of PD models
+7.  Validation of PD models and implementation
+8.  Use of PD models (approval, IRB, IFRS9, ICAAP, ...)
+9.  Example - logistic regression
+10. Other machine learning techniques
+11. Development of LGD and EAD models
